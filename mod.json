@@ -1,0 +1,14 @@
+{
+	"geode": "4.0.1",
+	"gd": {
+		"win": "2.2074"
+	},
+	"id": "danyl999.fatter_garage_icon",
+	"name": "Fatter Garage Icon",
+	"version": "v1.0.0",
+	"developer": "Danyl999",
+	"description": "Makes icon a little bit fatter in garage.",
+	"tags": [
+		"joke"
+	]
+}
